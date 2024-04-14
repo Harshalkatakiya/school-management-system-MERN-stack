@@ -2,7 +2,7 @@
 
 # made by Harsal Katakiya
 
-# Project ID: 
+# Project ID: BIT6F2X008
 
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
@@ -91,6 +91,7 @@ You can use the following faculty login credentials to access the faculty panel:
 You can use the following student login credentials to access the student panel:
 
 - **Student Roll No**: 1
+- **Student Name**: Kartik Gohil
 - **Student Email**: kartik@gmail.com
 - **Student Password**: Kartik@123
 
