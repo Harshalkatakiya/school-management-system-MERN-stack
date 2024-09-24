@@ -104,5 +104,3 @@ You have now successfully run the EduQuest project.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-For any questions or issues, please contact Harsal Katakiya.
