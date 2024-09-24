@@ -1,9 +1,5 @@
 # Project Name: EduQuest
 
-# made by Harsal Katakiya
-
-# Project ID: BIT6F2X008
-
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
 Seamlessly track attendance, assess performance, and provide feedback. <br>
@@ -74,26 +70,26 @@ Now, navigate to `localhost:3000` in your browser.
 
 You can use the following admin login credentials to access the admin panel:
 
-- **Admin Email**: harshal@gmail.com
-- **Admin Password**: Harshal@123
+- **Admin Email**: 
+- **Admin Password**: 
 
 
 ### Faculty Login
 
 You can use the following faculty login credentials to access the faculty panel:
 
-- **Faculty Email**: gujaratiprakash@gmail.com
-- **Faculty Password**: Prakash@123
+- **Faculty Email**: 
+- **Faculty Password**: 
 
 
 ### Student Login
 
 You can use the following student login credentials to access the student panel:
 
-- **Student Roll No**: 1
-- **Student Name**: Kartik Gohil
-- **Student Email**: kartik@gmail.com
-- **Student Password**: Kartik@123
+- **Student Roll No**: 
+- **Student Name**: 
+- **Student Email**: 
+- **Student Password**: 
 
 
 ### Start the Application
